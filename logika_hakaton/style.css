@@ -1,0 +1,1586 @@
+.important-functions{
+    position: absolute;
+    width: 1500x;
+    height: 47px;
+    background-color:rgb(228, 228, 228);
+    left: 0;
+    right: 0;
+    top: 0;
+
+}
+
+.work{
+    position: absolute;
+    margin: auto 0;
+    width: 108px;
+    height: 19px;
+    border: 2px solid rgb(55, 55, 55) ;
+    border-radius: 28px;
+    left: 1031px;
+    right: 301px;
+    top: 9px;
+    padding-top: 7px;
+    color: rgb(55, 55, 55);
+    font-family: 'Inter';
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 13px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.dashboard{
+    position: absolute;
+    margin: auto 0;
+    width: 51px;
+    height: 19px;
+    left: 1172px;
+    right: 217px;
+    top: 18px;
+    color: rgb(55, 55, 55);
+    font-family: 'Inter';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 13px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.API{
+    position: absolute;
+    margin: auto 0;
+    width: 19px;
+    height: 19px;
+    left: 1256px;
+    right: 185px;
+    top: 18px;
+    color: rgb(55, 55, 55);
+    font-family: 'Inter';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 13px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.contacts{
+    position: absolute;
+    margin: auto 0;
+    width: 50px;
+    height: 19px;
+    left: 1308px;
+    right: 92px;
+    top: 18px;
+    color: rgb(55, 55, 55);
+    font-family: 'Inter';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 13px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.language{
+    position: absolute;
+    margin: auto 0;
+    width: 50px;
+    height: 19px;
+    left: 1391px;
+    right: 159px;
+    top: 18px;
+    color: rgb(55, 55, 55);
+    font-family: 'Inter';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 13px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.main-functions{
+    position: absolute;
+    margin: auto 0;
+    width: 1519px;
+    height: 84px;
+    left: 0;
+    right: 0;
+    top: 47px;
+    background: rgb(255, 255, 255);
+}
+
+.bank-name{
+    position: absolute;
+    margin: auto 0;
+    width: 356px;
+    height: 29px;
+    left: 189px;
+    right: 895px;
+    top: 30px;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.cards{
+    position: absolute;
+    margin: auto 0;
+    width: 57px;
+    height: 29px;
+    left: 766px;
+    right: 617px;
+    top: 30px;
+    color: rgb(0, 0, 0);
+    font-family: 'Inter';
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.fop{
+    position: absolute;
+    margin: auto 0;
+    width: 33px;
+    height: 29px;
+    left: 849px;
+    right: 558px;
+    top: 30px;
+    color: rgb(0, 0, 0);
+    font-family: 'Inter';
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.deposit{
+    position: absolute;
+    margin: auto 0;
+    width: 77px;
+    height: 29px;
+    left: 908px;
+    right: 455px;
+    top: 30px;
+    color: rgb(0, 0, 0);
+    font-family: 'Inter';
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.buy-by-part{
+    position: absolute;
+    margin: auto 0;
+    width: 161px;
+    height: 29px;
+    left: 1011px;
+    right: 268px;
+    top: 30px;
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.ecviring{
+    position: absolute;
+    margin: auto 0;
+    width: 77px;
+    height: 29px;
+    left: 1198px;
+    right: 165px;
+    top: 30px;
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.bank-in-the-phone{
+    margin: auto 0;
+    width: 1511px;
+    height: 769px;
+    left: 0;
+    right: 0;
+    background-color: rgb(230, 207, 238);
+
+
+}
+
+.slogan{
+    position: absolute;
+    margin: auto 0;
+    width: 457px;
+    height: 39px;
+    left: 782px;
+    right: 201px;
+    top: 249px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.credit-limit{
+    position: absolute;
+    margin: auto 0;
+    width: 659px;
+    height: 48px;
+    left: 785px;
+    right: 159px;
+    top: 301px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.card{
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    left: 321px;
+    right: 742px;
+    top: 500px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.phone{
+    position: absolute;
+    margin: auto 0;
+    width: 280px;
+    height: 550px;
+    left: 390px;
+    right: 737px;
+    top: 182px;
+}
+
+.number-txt{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 801px;
+    right: 490px;
+    top: 387px;
+    color: rgb(163, 162, 162);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.number{
+    position: absolute;
+    margin: auto 0;
+    width: 280px;
+    height: 64px;
+    left: 782px;
+    right: 378px;
+    top: 367px;
+    border-radius: 15px;
+    background: rgb(255, 255, 255);
+}
+
+.link-btn{
+    position: absolute;
+    margin: auto 0;
+    width: 232px;
+    height: 64px;
+    left: 1082px;
+    right: 126px;
+    top: 367px;
+    border-radius: 15px;
+    background: rgb(255, 88, 88);
+}
+
+.link-txt{
+    position: absolute;
+    margin: auto 0;
+    width: 214px;
+    height: 30px;
+    left: 1098px;
+    right: 128px;
+    top: 383px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.qrcode{
+    position: absolute;
+    margin: auto 0;
+    width: 149px;
+    height: 148px;
+    left: 782px;
+    right: 509px;
+    top: 531px;
+}
+
+.appstore-btn{
+    position: absolute;
+    margin: auto 0;
+    width: 148px;
+    height: 59px;
+    left: 466px;
+    right: 561px;
+    top: 261px;
+}
+
+.appstore-btn-link{
+    position: absolute;
+    margin: auto 0;
+    width: 148px;
+    height: 59px;
+    left: 466px;
+    right: 561px;
+    top: 261px;
+}
+
+.playmarket-btn{
+    position: absolute;
+    margin: auto 0;
+    width: 148px;
+    height: 59px;
+    left: 535px;
+    right: 461px;
+    top: 261px;
+}
+
+.playmarket-btn-link{
+    position: absolute;
+    margin: auto 0;
+    width: 148px;
+    height: 59px;
+    left: 535px;
+    right: 461px;
+    top: 261px;
+}
+
+.appgallery-btn{
+    position: absolute;
+    margin: auto 0;
+    width: 148px;
+    height: 65px;
+    left: 603px;
+    right: 461px;
+    top: 259px;
+}
+
+.appgallery-btn-link{
+    position: absolute;
+    margin: auto 0;
+    width: 160px;
+    height: 65px;
+    left: 603px;
+    right: 461px;
+    top: 259px;
+}
+
+.achieve-card{
+    position: relative;
+    margin: auto 0;
+    width: 560px;
+    height: 54px;
+    left: 586px;
+    right: 298px;
+    top: 44px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.download-img{
+    position: absolute;
+    width: 97px;
+    height: 102px;
+    left: 255px;
+    right: 958px;
+    top: 929px;
+}
+
+.download-txt{
+    position: absolute;
+    width: 386px;
+    height: 60px;
+    left: 113px;
+    right: 824px;
+    top: 1026px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.camera-img{
+    position: absolute;
+    width: 100px;
+    height: 99px;
+    left: 759px;
+    right: 511px;
+    top: 931px;
+}
+
+.camera-txt{
+    position: absolute;
+    width: 386px;
+    height: 60px;
+    left: 607px;
+    right: 367px;
+    top: 1026px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.card-img{
+    position: absolute;
+    width: 101px;
+    height: 102px;
+    left: 1225px;
+    right: 255px;
+    top: 931px;
+}
+
+.card-txt{
+    position: absolute;
+    width: 386px;
+    height: 87px;
+    left: 1078px;
+    right: 113px;
+    top: 1026px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.restaurant-payment{
+    position: absolute;
+    width: 1020px;
+    height: 515px;
+    left: 270px;
+    right: 50px;
+    top: 1221px;
+    border-radius: 180px 100px 180px 100px;
+    background: linear-gradient(90.00deg, rgb(114, 48, 255),rgb(130, 80, 255) 100%);
+}
+
+.circle{
+    position: absolute;
+    width: 327px;
+    height: 327px;
+    left: 353px;
+    right: 830px;
+    top: 1333px;
+    background-color: rgb(130, 80, 255);
+    border-radius: 360px;
+}
+
+.mono-paw{
+    position: absolute;
+    width: 337px;
+    height: 358px;
+    left: 353px;
+    right: 820px;
+    top: 1330px;
+}
+
+.payment-txt{
+    position: absolute;
+    width: 401px;
+    height: 162px;
+    left: 814px;
+    right: 325px;
+    top: 1312px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.payment-txt-2{
+    position: absolute;
+    width: 462px;
+    height: 60px;
+    left: 814px;
+    right: 261px;
+    top: 1495px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.more{
+    position: absolute;
+    width: 247px;
+    height: 64px;
+    left: 814px;
+    right: 476px;
+    top: 1600px;
+    border-radius: 15px;
+    background: rgb(255, 88, 88);
+}
+
+.more-txt{
+    position: absolute;
+    width: 188px;
+    height: 30px;
+    left: 859px;
+    right: 492px;
+    top: 1597px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.tariff{
+    position: absolute;
+    margin: auto 0;
+    width: 131px;
+    height: 54px;
+    left: 725px;
+    right: 655px;
+    top: 1800px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.tariff-txt{
+    position: absolute;
+    width: 348px;
+    height: 24px;
+    left: 625px;
+    right: 546px;
+    top: 1830px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.tariff-btn{
+    position: absolute;
+    width: 247px;
+    height: 64px;
+    left: 667px;
+    right: 597px;
+    top: 1879px;
+    border-radius: 15px;
+    background: rgb(255, 88, 88);
+}
+
+.tariff-btn-txt{
+    position: absolute;
+    width: 167px;
+    height: 30px;
+    left: 716px;
+    right: 637px;
+    top: 1878px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.tariff-table{
+    position: absolute;
+    margin: auto 0;
+    width: 1028px;
+    height: 484px;
+    left: 275px;
+    right: 180px;
+    top: 2000px;
+}
+
+.pdf-sign{
+    position: absolute;
+    width: 36px;
+    height: 64px;
+    left: 272px;
+    right: -232px;
+    top: 2480px;
+}
+
+.pdf-txt{
+    position: absolute;
+    width: 507px;
+    height: 26px;
+    left: 295px;
+    right: 659px;
+    top: 2498px;
+    color: rgb(255, 88, 88);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.date{
+    position: absolute;
+    width: 206px;
+    height: 30px;
+    left: 1100px;
+    right: 179px;
+    top: 2478px;
+    color: rgb(214, 214, 214);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.mobile-app{
+    position: absolute;
+    margin: auto 0;
+    width: 385px;
+    height: 54px;
+    left: 617px;
+    right: 528px;
+    top: 2678px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.mobile-app-txt{
+    position: absolute;
+    margin: auto 0;
+    width: 1007px;
+    height: 119px;
+    left: 285px;
+    right: 217px;
+    top: 2725px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.payment-btn{
+    position: absolute;
+    width: 268px;
+    height: 43px;
+    left: 390px;
+    right: 855px;
+    top: 2867px;
+    border-radius: 59px 0px 0px 59px;
+    background: rgb(255, 88, 88);
+
+}
+
+.payment-btn-txt{
+    position: absolute;
+    width: 84px;
+    height: 27px;
+    left: 485px;
+    right: 947px;
+    top: 2858px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.payment-img{
+    position: absolute;
+    width: 265px;
+    height: 635px;
+    left: 335px;
+    right: 897px;
+    top: 2975px;
+}
+
+.payment-img-2{
+    position: absolute;
+    width: 68px;
+    height: 71px;
+    left: 730px;
+    right: 696px;
+    top: 3125px;
+}
+
+.free-sending{
+    position: absolute;
+    width: 362px;
+    height: 72px;
+    left: 730px;
+    right: 402px;
+    top: 3200px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.free-sending-txt{
+    position: absolute;
+    width: 537px;
+    height: 135px;
+    left: 730px;
+    right: 227px;
+    top: 3284px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.extract-btn{
+    position: absolute;
+    margin: 1px;
+    width: 268px;
+    height: 42px;
+    left: 658px;
+    right: 586px;
+    top: 2867px;
+    background: rgb(255, 230, 230);
+}
+
+.extract-btn-txt{
+    position: absolute;
+    width: 89px;
+    height: 27px;
+    left: 748px;
+    right: 675px;
+    top: 2858px;
+    color: rgb(255, 88, 88);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.extract-img{
+    position: absolute;
+    width: 265px;
+    height: 635px;
+    left: 335px;
+    right: 897px;
+    top: 3650px;
+}
+
+.extract-img-2{
+    position: absolute;
+    width: 69px;
+    height: 72px;
+    left: 746px;
+    right: 695px;
+    top: 3800px;
+}
+
+.costs{
+    position: absolute;
+    width: 481px;
+    height: 72px;
+    left: 746px;
+    right: 283px;
+    top: 3890px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.costs-txt{
+    position: absolute;
+    width: 537px;
+    height: 108px;
+    left: 746px;
+    right: 227px;
+    top: 3975px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.settings-btn{
+    position: absolute;
+    width: 268px;
+    height: 43px;
+    left: 928px;
+    right: 390px;
+    top: 2867px;
+    bottom: 699px;
+    border-radius: 0px 59px 59px 0px;
+    background: rgb(255, 230, 230);
+}
+
+.settings-btn-txt{
+    position: absolute;
+    width: 250px;
+    height: 27px;
+    left: 938px;
+    right: 336px;
+    top: 2858px;
+    color: rgb(255, 88, 88);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: center;
+}
+
+.settings-img{
+    position: absolute;
+    width: 265px;
+    height: 635px;
+    left: 335px;
+    right: 897px;
+    top: 4325px;
+}
+
+.settings-img-2{
+    position: absolute;
+    width: 73px;
+    height: 75px;
+    left: 755px;
+    right: 692px;
+    top: 4475px;
+}
+
+.card-control{
+    position: absolute;
+    width: 499px;
+    height: 72px;
+    left: 755px;
+    right: 266px;
+    top: 4575px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.card-control-txt{
+    position: absolute;
+    width: 521px;
+    height: 135px;
+    left: 755px;
+    right: 244px;
+    top: 4675px;
+    color: rgb(45, 45, 45);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: -4%;
+    text-align: left;
+}
+
+.functions{
+    position: absolute;
+    margin: auto 0;
+    width: 1518px;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 5086px;
+    background-color: black;
+}
+
+.bank-name-2{
+    position: absolute;
+    margin: auto 0;
+    width: 454px;
+    height: 34px;
+    left: 114px;
+    right: 872px;
+    top: 30px;
+    color: white;
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.be-client{
+    position: absolute;
+    width: 641px;
+    height: 24px;
+    left: 114px;
+    right: 685px;
+    top: 75px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.bank{
+    position: absolute;
+    width: 78px;
+    height: 39px;
+    left: 114px;
+    right: 1248px;
+    top: 125px;
+    color: rgb(128, 128, 128);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.about-bank{
+    position: absolute;
+    margin: auto 0;
+    width: 92px;
+    height: 24px;
+    left: 114px;
+    right: 1234px;
+    top: 200px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.career{
+    position: absolute;
+    margin: auto 0;
+    width: 92px;
+    height: 24px;
+    left: 114px;
+    right: 1234px;
+    top: 235px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.contacts-2{
+    position: absolute;
+    margin: auto 0;
+    width: 92px;
+    height: 24px;
+    left: 114px;
+    right: 1234px;
+    top: 270px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.rules{
+    position: absolute;
+    margin: auto 0;
+    width: 220px;
+    height: 24px;
+    left: 114px;
+    right: 1234px;
+    top: 305px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.safety{
+    position: absolute;
+    margin: auto 0;
+    width: 92px;
+    height: 24px;
+    left: 114px;
+    right: 1234px;
+    top: 340px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.api{
+    position: absolute;
+    margin: auto 0;
+    width: 92px;
+    height: 24px;
+    left: 114px;
+    right: 1234px;
+    top: 375px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.cards-2{
+    position: absolute;
+    margin: auto 0;
+    width: 78px;
+    height: 39px;
+    left: 500px;
+    right: 1248px;
+    top: 145px;
+    color: rgb(128, 128, 128);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.black-card{
+    position: absolute;
+    margin: auto 0;
+    width: 135px;
+    height: 24px;
+    left: 500px;
+    right: 1234px;
+    top: 200px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.white-card{
+    position: absolute;
+    margin: auto 0;
+    width: 135px;
+    height: 24px;
+    left: 500px;
+    right: 1234px;
+    top: 235px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.platinum-card{
+    position: absolute;
+    margin: auto 0;
+    width: 135px;
+    height: 24px;
+    left: 500px;
+    right: 1234px;
+    top: 270px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.iron-card{
+    position: absolute;
+    margin: auto 0;
+    width: 135px;
+    height: 24px;
+    left: 500px;
+    right: 1234px;
+    top: 305px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.children-card{
+    position: absolute;
+    margin: auto 0;
+    width: 135px;
+    height: 24px;
+    left: 500px;
+    right: 1234px;
+    top: 340px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.support{
+    position: absolute;
+    margin: auto 0;
+    width: 135px;
+    height: 24px;
+    left: 500px;
+    right: 1234px;
+    top: 375px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.restoration{
+    position: absolute;
+    margin: auto 0;
+    width: 135px;
+    height: 24px;
+    left: 500px;
+    right: 1234px;
+    top: 410px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.mono-atb{
+    position: absolute;
+    margin: auto 0;
+    width: 135px;
+    height: 24px;
+    left: 500px;
+    right: 1234px;
+    top: 445px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.products{
+    position: absolute;
+    margin: auto 0;
+    width: 78px;
+    height: 39px;
+    left: 760px;
+    right: 1248px;
+    top: 145px;
+    color: rgb(128, 128, 128);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.buy-by-part-2{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 200px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.installment{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 235px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.international{
+    position: absolute;
+    margin: auto 0;
+    width: 190px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 270px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.FOP{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 305px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.deposits{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 340px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.restaurant-payment-2{
+    position: absolute;
+    margin: auto 0;
+    width: 190px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 375px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.salary-payment{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 410px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.obligation{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 445px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.ecviring-offline{
+    position: absolute;
+    margin: auto 0;
+    width: 270px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 480px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.ecviring-internet{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 515px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.esim{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 550px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.npd{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 585px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.nppo{
+    position: absolute;
+    margin: auto 0;
+    width: 170px;
+    height: 24px;
+    left: 760px;
+    right: 1234px;
+    top: 620px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.facebook{
+    position: absolute;
+    margin: auto 0;
+    width: 78px;
+    height: 39px;
+    left: 1000px;
+    right: 1248px;
+    top: 145px;
+}
+
+.twitter{
+    position: absolute;
+    margin: auto 0;
+    width: 78px;
+    height: 39px;
+    left: 1075px;
+    right: 1248px;
+    top: 147px;
+}
+
+.instagram{
+    position: absolute;
+    margin: auto 0;
+    width: 78px;
+    height: 39px;
+    left: 1153px;
+    right: 1248px;
+    top: 145px;
+}
+
+.youtube{
+    position: absolute;
+    margin: auto 0;
+    width: 78px;
+    height: 39px;
+    left: 1229px;
+    right: 1248px;
+    top: 143px;
+}
+
+.license{
+    position: absolute;
+    width: 302px;
+    height: 57px;
+    left: 1010px;
+    right: 70px;
+    top: 240px;
+    color: rgb(128, 128, 128);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.fund-of-garanty{
+    position: absolute;
+    width: 312px;
+    height: 38px;
+    left: 1010px;
+    right: 70px;
+    top: 320px;
+    color: rgb(255, 88, 88);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
